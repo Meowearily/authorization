@@ -1,0 +1,13 @@
+C:\Users\kukli\Desktop\front-back-another\authorization\LearningPlatform\LearningPlatform.Ifrastructure\bin\Debug\net8.0\LearningPlatform.Ifrastructure.deps.json
+C:\Users\kukli\Desktop\front-back-another\authorization\LearningPlatform\LearningPlatform.Ifrastructure\bin\Debug\net8.0\LearningPlatform.Ifrastructure.dll
+C:\Users\kukli\Desktop\front-back-another\authorization\LearningPlatform\LearningPlatform.Ifrastructure\bin\Debug\net8.0\LearningPlatform.Ifrastructure.pdb
+C:\Users\kukli\Desktop\front-back-another\authorization\LearningPlatform\LearningPlatform.Ifrastructure\obj\Debug\net8.0\LearningPlatform.Ifrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kukli\Desktop\front-back-another\authorization\LearningPlatform\LearningPlatform.Ifrastructure\obj\Debug\net8.0\LearningPlatform.Ifrastructure.AssemblyInfoInputs.cache
+C:\Users\kukli\Desktop\front-back-another\authorization\LearningPlatform\LearningPlatform.Ifrastructure\obj\Debug\net8.0\LearningPlatform.Ifrastructure.AssemblyInfo.cs
+C:\Users\kukli\Desktop\front-back-another\authorization\LearningPlatform\LearningPlatform.Ifrastructure\obj\Debug\net8.0\LearningPlatform.Ifrastructure.csproj.CoreCompileInputs.cache
+C:\Users\kukli\Desktop\front-back-another\authorization\LearningPlatform\LearningPlatform.Ifrastructure\obj\Debug\net8.0\LearningPlatform.Ifrastructure.sourcelink.json
+C:\Users\kukli\Desktop\front-back-another\authorization\LearningPlatform\LearningPlatform.Ifrastructure\obj\Debug\net8.0\LearningPlatform.Ifrastructure.dll
+C:\Users\kukli\Desktop\front-back-another\authorization\LearningPlatform\LearningPlatform.Ifrastructure\obj\Debug\net8.0\refint\LearningPlatform.Ifrastructure.dll
+C:\Users\kukli\Desktop\front-back-another\authorization\LearningPlatform\LearningPlatform.Ifrastructure\obj\Debug\net8.0\LearningPlatform.Ifrastructure.pdb
+C:\Users\kukli\Desktop\front-back-another\authorization\LearningPlatform\LearningPlatform.Ifrastructure\obj\Debug\net8.0\ref\LearningPlatform.Ifrastructure.dll
+C:\Users\kukli\Desktop\front-back-another\authorization\LearningPlatform\LearningPlatform.Ifrastructure\obj\Debug\net8.0\LearningPlatform.Ifrastructure.csproj.AssemblyReference.cache

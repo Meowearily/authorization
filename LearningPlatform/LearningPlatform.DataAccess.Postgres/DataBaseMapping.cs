@@ -1,8 +1,9 @@
 ﻿using AutoMapper;
 using LearningPlatform.Core.Models;
 using LearningPlatform.Persistance.Entities;
+using LearningPlatform.Persistence.Entities;
 
-namespace LearningPlatform.Persistance;
+namespace LearningPlatform.Persistence;
 public class DataBaseMappings : Profile
 {
     public DataBaseMappings()
@@ -10,6 +11,6 @@ public class DataBaseMappings : Profile
         CreateMap<CourseEntity, Course>();
         CreateMap<LessonEntity, Lesson>();
         CreateMap<UserEntity, User>();
-
     }
 }
+

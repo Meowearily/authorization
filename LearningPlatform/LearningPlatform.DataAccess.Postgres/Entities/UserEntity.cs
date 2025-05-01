@@ -1,4 +1,4 @@
-﻿namespace LearningPlatform.Persistance.Entities;
+﻿namespace LearningPlatform.Persistence.Entities;
 public class UserEntity
 {
     public Guid Id { get; set; }
@@ -9,3 +9,4 @@ public class UserEntity
 
     public string Email { get; set; } = string.Empty;
 }
+

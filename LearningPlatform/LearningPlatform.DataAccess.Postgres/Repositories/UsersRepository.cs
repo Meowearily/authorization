@@ -17,7 +17,7 @@ public class UsersRepository : IUsersRepository
         _mapper = mapper;
     }
 
-    public async Task Create(User user)
+    public async Task Add(User user)
     {
         var userEntity = new UserEntity()
         {
