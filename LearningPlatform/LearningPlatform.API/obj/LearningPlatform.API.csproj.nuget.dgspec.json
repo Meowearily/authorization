@@ -33,8 +33,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\kukli\\Desktop\\front-back-another\\authorization\\LearningPlatform\\LearningPlatforn.Application\\LearningPlatforn.Application.csproj": {
-                "projectPath": "C:\\Users\\kukli\\Desktop\\front-back-another\\authorization\\LearningPlatform\\LearningPlatforn.Application\\LearningPlatforn.Application.csproj"
+              "C:\\Users\\kukli\\Desktop\\front-back-another\\authorization\\LearningPlatform\\LearningPlatforn.Application\\LearningPlatform.Application.csproj": {
+                "projectPath": "C:\\Users\\kukli\\Desktop\\front-back-another\\authorization\\LearningPlatform\\LearningPlatforn.Application\\LearningPlatform.Application.csproj"
               }
             }
           }
@@ -55,11 +55,19 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
               "version": "[8.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.4, )"
             },
             "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
               "target": "Package",
@@ -191,12 +199,12 @@
         }
       }
     },
-    "C:\\Users\\kukli\\Desktop\\front-back-another\\authorization\\LearningPlatform\\LearningPlatform.DataAccess.Postgres\\LearningPlatform.DataAccess.Postgres.csproj": {
+    "C:\\Users\\kukli\\Desktop\\front-back-another\\authorization\\LearningPlatform\\LearningPlatform.DataAccess.Postgres\\LearningPlatform.Persistance.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kukli\\Desktop\\front-back-another\\authorization\\LearningPlatform\\LearningPlatform.DataAccess.Postgres\\LearningPlatform.DataAccess.Postgres.csproj",
-        "projectName": "LearningPlatform.DataAccess.Postgres",
-        "projectPath": "C:\\Users\\kukli\\Desktop\\front-back-another\\authorization\\LearningPlatform\\LearningPlatform.DataAccess.Postgres\\LearningPlatform.DataAccess.Postgres.csproj",
+        "projectUniqueName": "C:\\Users\\kukli\\Desktop\\front-back-another\\authorization\\LearningPlatform\\LearningPlatform.DataAccess.Postgres\\LearningPlatform.Persistance.csproj",
+        "projectName": "LearningPlatform.Persistance",
+        "projectPath": "C:\\Users\\kukli\\Desktop\\front-back-another\\authorization\\LearningPlatform\\LearningPlatform.DataAccess.Postgres\\LearningPlatform.Persistance.csproj",
         "packagesPath": "C:\\Users\\kukli\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\kukli\\Desktop\\front-back-another\\authorization\\LearningPlatform\\LearningPlatform.DataAccess.Postgres\\obj\\",
         "projectStyle": "PackageReference",
@@ -242,6 +250,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
             "Mapster": {
               "target": "Package",
               "version": "[7.4.0, )"
@@ -301,12 +313,12 @@
         }
       }
     },
-    "C:\\Users\\kukli\\Desktop\\front-back-another\\authorization\\LearningPlatform\\LearningPlatforn.Application\\LearningPlatforn.Application.csproj": {
+    "C:\\Users\\kukli\\Desktop\\front-back-another\\authorization\\LearningPlatform\\LearningPlatforn.Application\\LearningPlatform.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kukli\\Desktop\\front-back-another\\authorization\\LearningPlatform\\LearningPlatforn.Application\\LearningPlatforn.Application.csproj",
-        "projectName": "LearningPlatforn.Application",
-        "projectPath": "C:\\Users\\kukli\\Desktop\\front-back-another\\authorization\\LearningPlatform\\LearningPlatforn.Application\\LearningPlatforn.Application.csproj",
+        "projectUniqueName": "C:\\Users\\kukli\\Desktop\\front-back-another\\authorization\\LearningPlatform\\LearningPlatforn.Application\\LearningPlatform.Application.csproj",
+        "projectName": "LearningPlatform.Application",
+        "projectPath": "C:\\Users\\kukli\\Desktop\\front-back-another\\authorization\\LearningPlatform\\LearningPlatforn.Application\\LearningPlatform.Application.csproj",
         "packagesPath": "C:\\Users\\kukli\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\kukli\\Desktop\\front-back-another\\authorization\\LearningPlatform\\LearningPlatforn.Application\\obj\\",
         "projectStyle": "PackageReference",
@@ -330,8 +342,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\kukli\\Desktop\\front-back-another\\authorization\\LearningPlatform\\LearningPlatform.DataAccess.Postgres\\LearningPlatform.DataAccess.Postgres.csproj": {
-                "projectPath": "C:\\Users\\kukli\\Desktop\\front-back-another\\authorization\\LearningPlatform\\LearningPlatform.DataAccess.Postgres\\LearningPlatform.DataAccess.Postgres.csproj"
+              "C:\\Users\\kukli\\Desktop\\front-back-another\\authorization\\LearningPlatform\\LearningPlatform.DataAccess.Postgres\\LearningPlatform.Persistance.csproj": {
+                "projectPath": "C:\\Users\\kukli\\Desktop\\front-back-another\\authorization\\LearningPlatform\\LearningPlatform.DataAccess.Postgres\\LearningPlatform.Persistance.csproj"
               }
             }
           }
@@ -351,6 +363,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "BCrypt.Net-Next": {
+              "target": "Package",
+              "version": "[4.0.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

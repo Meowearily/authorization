@@ -1,0 +1,6 @@
+C:\Users\kukli\Desktop\front-back-another\authorization\LearningPlatform\LearningPlatforn.Application\obj\Debug\net8.0\LearningPlatform.Application.csproj.AssemblyReference.cache
+C:\Users\kukli\Desktop\front-back-another\authorization\LearningPlatform\LearningPlatforn.Application\obj\Debug\net8.0\LearningPlatform.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kukli\Desktop\front-back-another\authorization\LearningPlatform\LearningPlatforn.Application\obj\Debug\net8.0\LearningPlatform.Application.AssemblyInfoInputs.cache
+C:\Users\kukli\Desktop\front-back-another\authorization\LearningPlatform\LearningPlatforn.Application\obj\Debug\net8.0\LearningPlatform.Application.AssemblyInfo.cs
+C:\Users\kukli\Desktop\front-back-another\authorization\LearningPlatform\LearningPlatforn.Application\obj\Debug\net8.0\LearningPlatform.Application.csproj.CoreCompileInputs.cache
+C:\Users\kukli\Desktop\front-back-another\authorization\LearningPlatform\LearningPlatforn.Application\obj\Debug\net8.0\LearningPlatform.Application.sourcelink.json

@@ -1,7 +1,7 @@
 ﻿using LearningPlatform.Core.Models;
-using LearningPlatform.DataAccess.Postgres.Repositories;
+using LearningPlatform.Persistance.Repositories;
 
-namespace LearningPlatforn.Application.Services;
+namespace LearningPlatform.Application.Services;
 
 public class CoursesService
 {

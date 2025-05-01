@@ -1,11 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "BZv//eWQiMM=",
+  "dgSpecHash": "UYnxE45izBs=",
   "success": true,
-  "projectFilePath": "C:\\Users\\kukli\\Desktop\\front-back-another\\authorization\\LearningPlatform\\LearningPlatforn.Application\\LearningPlatforn.Application.csproj",
+  "projectFilePath": "C:\\Users\\kukli\\Desktop\\front-back-another\\authorization\\LearningPlatform\\LearningPlatforn.Application\\LearningPlatform.Application.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\kukli\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\kukli\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
     "C:\\Users\\kukli\\.nuget\\packages\\mapster\\7.4.0\\mapster.7.4.0.nupkg.sha512",
     "C:\\Users\\kukli\\.nuget\\packages\\mapster.core\\1.2.1\\mapster.core.1.2.1.nupkg.sha512",
+    "C:\\Users\\kukli\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\kukli\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.0\\microsoft.entityframeworkcore.8.0.0.nupkg.sha512",
     "C:\\Users\\kukli\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.0\\microsoft.entityframeworkcore.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\kukli\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\8.0.0\\microsoft.entityframeworkcore.analyzers.8.0.0.nupkg.sha512",

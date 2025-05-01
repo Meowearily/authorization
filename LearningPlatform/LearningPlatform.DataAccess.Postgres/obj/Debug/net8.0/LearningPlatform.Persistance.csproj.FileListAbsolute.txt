@@ -1,0 +1,6 @@
+C:\Users\kukli\Desktop\front-back-another\authorization\LearningPlatform\LearningPlatform.DataAccess.Postgres\obj\Debug\net8.0\LearningPlatform.Persistance.csproj.AssemblyReference.cache
+C:\Users\kukli\Desktop\front-back-another\authorization\LearningPlatform\LearningPlatform.DataAccess.Postgres\obj\Debug\net8.0\LearningPlatform.Persistance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kukli\Desktop\front-back-another\authorization\LearningPlatform\LearningPlatform.DataAccess.Postgres\obj\Debug\net8.0\LearningPlatform.Persistance.AssemblyInfoInputs.cache
+C:\Users\kukli\Desktop\front-back-another\authorization\LearningPlatform\LearningPlatform.DataAccess.Postgres\obj\Debug\net8.0\LearningPlatform.Persistance.AssemblyInfo.cs
+C:\Users\kukli\Desktop\front-back-another\authorization\LearningPlatform\LearningPlatform.DataAccess.Postgres\obj\Debug\net8.0\LearningPlatform.Persistance.csproj.CoreCompileInputs.cache
+C:\Users\kukli\Desktop\front-back-another\authorization\LearningPlatform\LearningPlatform.DataAccess.Postgres\obj\Debug\net8.0\LearningPlatform.Persistance.sourcelink.json

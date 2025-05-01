@@ -1,16 +1,21 @@
-﻿using LearningPlatform.Core.Models;
-using LearningPlatform.DataAccess.Postgres.Entities;
+﻿using AutoMapper;
+using LearningPlatform.Application.Interfaces;
+using LearningPlatform.Core.Models;
+using LearningPlatform.Persistance.Entities;
+using LearningPlatform.Persistance;
 using Microsoft.EntityFrameworkCore;
 
-namespace LearningPlatform.DataAccess.Postgres.Repositories;
+namespace LearningPlatform.Persistance.Repositories;
 
-public class LessonsRepository
+public class LessonsRepository : ILessonRepository
 {
-	private LearningDbContext _context;
+	private readonly LearningDbContext _context;
+	private readonly IMapper _mapper;
 
-	public LessonsRepository(LearningDbContext context)
+	public LessonsRepository(LearningDbContext context, IMapper mapper)
 	{
 		_context = context;
+		_mapper = mapper;
 	}
 
 	public async Task Create(Lesson lesson)
@@ -31,30 +36,24 @@ public class LessonsRepository
 
 	public async Task<List<Lesson>> Get(Guid courseId)
 	{
-		return await _context.Lessons
-			.Where(l => l.CourseId == courseId)
-			.Select(l => new Lesson(l.Id, l.CourseId, l.Title, l.Description, l.VideoLink, l.LessonText))
-			.ToListAsync();
-	}
-
-	public async Task<Lesson> GetById(Guid id)
-	{
 		var lessonEntity = await _context.Lessons
 			.AsNoTracking()
-			.FirstOrDefaultAsync(l => l.Id == id) ?? throw new Exception();
-
-		var lesson = new Lesson(
-			id,
-			lessonEntity.CourseId,
-			lessonEntity.Title,
-			lessonEntity.Description,
-			lessonEntity.VideoLink,
-			lessonEntity.LessonText);
-
-		return lesson;
+			.Where(l => l.CourseId == courseId)
+			.ToListAsync();
+		return _mapper.Map<List<Lesson>>(lessonEntity);
 	}
 
-	public async Task Update(
+    public async Task<Lesson> GetById(Guid id)
+    {
+        var lessonEntity = await _context.Lessons
+            .AsNoTracking()
+            .FirstOrDefaultAsync(l => l.Id == id) ?? throw new Exception();
+
+        return _mapper.Map<Lesson>(lessonEntity);
+    }
+
+
+    public async Task Update(
 		Guid id,
 		string title,
 		string description,

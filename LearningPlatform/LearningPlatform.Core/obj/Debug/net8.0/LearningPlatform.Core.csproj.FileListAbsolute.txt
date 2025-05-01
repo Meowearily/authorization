@@ -1,0 +1,12 @@
+C:\Users\kukli\Desktop\front-back-another\authorization\LearningPlatform\LearningPlatform.Core\obj\Debug\net8.0\LearningPlatform.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kukli\Desktop\front-back-another\authorization\LearningPlatform\LearningPlatform.Core\obj\Debug\net8.0\LearningPlatform.Core.AssemblyInfoInputs.cache
+C:\Users\kukli\Desktop\front-back-another\authorization\LearningPlatform\LearningPlatform.Core\obj\Debug\net8.0\LearningPlatform.Core.AssemblyInfo.cs
+C:\Users\kukli\Desktop\front-back-another\authorization\LearningPlatform\LearningPlatform.Core\obj\Debug\net8.0\LearningPlatform.Core.csproj.CoreCompileInputs.cache
+C:\Users\kukli\Desktop\front-back-another\authorization\LearningPlatform\LearningPlatform.Core\obj\Debug\net8.0\LearningPlatform.Core.sourcelink.json
+C:\Users\kukli\Desktop\front-back-another\authorization\LearningPlatform\LearningPlatform.Core\bin\Debug\net8.0\LearningPlatform.Core.deps.json
+C:\Users\kukli\Desktop\front-back-another\authorization\LearningPlatform\LearningPlatform.Core\bin\Debug\net8.0\LearningPlatform.Core.dll
+C:\Users\kukli\Desktop\front-back-another\authorization\LearningPlatform\LearningPlatform.Core\bin\Debug\net8.0\LearningPlatform.Core.pdb
+C:\Users\kukli\Desktop\front-back-another\authorization\LearningPlatform\LearningPlatform.Core\obj\Debug\net8.0\LearningPlatform.Core.dll
+C:\Users\kukli\Desktop\front-back-another\authorization\LearningPlatform\LearningPlatform.Core\obj\Debug\net8.0\refint\LearningPlatform.Core.dll
+C:\Users\kukli\Desktop\front-back-another\authorization\LearningPlatform\LearningPlatform.Core\obj\Debug\net8.0\LearningPlatform.Core.pdb
+C:\Users\kukli\Desktop\front-back-another\authorization\LearningPlatform\LearningPlatform.Core\obj\Debug\net8.0\ref\LearningPlatform.Core.dll

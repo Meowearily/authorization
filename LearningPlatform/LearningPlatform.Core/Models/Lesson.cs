@@ -1,24 +1,22 @@
-﻿namespace LearningPlatform.Core.Models;
+﻿using System.Diagnostics;
+
+namespace LearningPlatform.Core.Models;
 
 public class Lesson
 {
-	public Lesson(Guid id, Guid courseId, string title, string description, string videoLink, string lessonText)
+	private Lesson(Guid id, Guid courseId, string title,  string description, string videoLink, string lessonText)
 	{
 		Id = id;
 
 		CourseId = courseId;
 
-		Title = !string.IsNullOrEmpty(title) ? title 
-			: throw new ArgumentException("Title cannot be null!");
+		Title = title;
 
-		Description = !string.IsNullOrEmpty(description) ? description 
-			: throw new ArgumentException("Description cannot be null!");
+		Description = description;
 
-		VideoLink = !string.IsNullOrEmpty(videoLink) ? videoLink
-			: throw new ArgumentException("VideoLink cannot be null!");
+		VideoLink = videoLink;
 
-		LessonText = !string.IsNullOrEmpty(lessonText) ? lessonText
-			: throw new ArgumentException("LessonText cannot be null!");
+		LessonText = lessonText;
 	}
 
 	public Guid Id { get; private set; }
@@ -32,4 +30,21 @@ public class Lesson
 	public string VideoLink { get; private set; } = string.Empty;
 
 	public string LessonText { get; private set; } = string.Empty;
+
+	public static Lesson Create(Guid id, Guid courseId, string title, string description, string videoLink, string lessonText)
+	{
+        if (string.IsNullOrEmpty(title)) throw new
+                ArgumentException("Title cannot be null!");
+
+        if (string.IsNullOrEmpty(description)) throw new
+                ArgumentException("Description cannot be null!");
+
+        if (string.IsNullOrEmpty(videoLink)) throw new
+                ArgumentException("VideoLink cannot be null!");
+
+        if (string.IsNullOrEmpty(lessonText)) throw new
+                ArgumentException("LessonText cannot be null!");
+
+        return new Lesson(id, courseId, title, description, videoLink, lessonText);
+    }
 }

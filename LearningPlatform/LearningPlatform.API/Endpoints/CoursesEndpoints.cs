@@ -1,6 +1,6 @@
 ﻿using LearningPlatform.API.Contracts.Courses;
+using LearningPlatform.Application.Services;
 using LearningPlatform.Core.Models;
-using LearningPlatforn.Application.Services;
 using Microsoft.AspNetCore.Mvc;
 
 namespace LearningPlatform.API.Endpoints;
@@ -24,7 +24,8 @@ public static class CoursesEndpoints
 		[FromBody] CreateCourseRequest request,
 		CoursesService coursesService)
 	{
-		var course = new Course(Guid.NewGuid(),
+		var course = Course.Create(
+			Guid.NewGuid(),
 			request.Title,
 			request.Description,
 			request.Price);
