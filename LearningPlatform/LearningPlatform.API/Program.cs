@@ -20,8 +20,8 @@ builder.Services.AddDbContext<LearningDbContext>(options =>
 });
 
 builder.Services.AddScoped<ICourseRepository, CourseRepository>();
-builder.Services.AddScoped<LessonsRepository>();
-builder.Services.AddScoped<UsersRepository>();
+builder.Services.AddScoped<ILessonsRepository, LessonsRepository>();
+builder.Services.AddScoped<IUsersRepository, UsersRepository>();
 
 builder.Services.AddScoped<CoursesService>();
 builder.Services.AddScoped<LessonsService>();
