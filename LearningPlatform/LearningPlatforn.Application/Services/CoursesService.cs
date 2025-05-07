@@ -1,13 +1,14 @@
 ﻿using LearningPlatform.Core.Models;
-using LearningPlatform.Persistance.Repositories;
+
+using LearningPlatform.Application.Interfaces.Repositories;
 
 namespace LearningPlatform.Application.Services;
 
 public class CoursesService
 {
-	private readonly CourseRepository _courseRepository;
+	private readonly ICourseRepository _courseRepository;
 
-	public CoursesService(CourseRepository courseRepository)
+	public CoursesService(ICourseRepository courseRepository)
 	{
 		_courseRepository = courseRepository;
 	}

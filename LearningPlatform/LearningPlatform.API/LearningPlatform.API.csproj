@@ -21,6 +21,9 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\LearningPlatform.Core\LearningPlatform.Core.csproj" />
+    <ProjectReference Include="..\LearningPlatform.DataAccess.Postgres\LearningPlatform.Persistance.csproj" />
+    <ProjectReference Include="..\LearningPlatform.Ifrastructure\LearningPlatform.Infrastructure.csproj" />
     <ProjectReference Include="..\LearningPlatforn.Application\LearningPlatform.Application.csproj" />
   </ItemGroup>
 

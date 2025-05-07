@@ -4,3 +4,13 @@ C:\Users\kukli\Desktop\front-back-another\authorization\LearningPlatform\Learnin
 C:\Users\kukli\Desktop\front-back-another\authorization\LearningPlatform\LearningPlatforn.Application\obj\Debug\net8.0\LearningPlatform.Application.AssemblyInfo.cs
 C:\Users\kukli\Desktop\front-back-another\authorization\LearningPlatform\LearningPlatforn.Application\obj\Debug\net8.0\LearningPlatform.Application.csproj.CoreCompileInputs.cache
 C:\Users\kukli\Desktop\front-back-another\authorization\LearningPlatform\LearningPlatforn.Application\obj\Debug\net8.0\LearningPlatform.Application.sourcelink.json
+C:\Users\kukli\Desktop\front-back-another\authorization\LearningPlatform\LearningPlatforn.Application\bin\Debug\net8.0\LearningPlatform.Application.deps.json
+C:\Users\kukli\Desktop\front-back-another\authorization\LearningPlatform\LearningPlatforn.Application\bin\Debug\net8.0\LearningPlatform.Application.dll
+C:\Users\kukli\Desktop\front-back-another\authorization\LearningPlatform\LearningPlatforn.Application\bin\Debug\net8.0\LearningPlatform.Application.pdb
+C:\Users\kukli\Desktop\front-back-another\authorization\LearningPlatform\LearningPlatforn.Application\bin\Debug\net8.0\LearningPlatform.Core.dll
+C:\Users\kukli\Desktop\front-back-another\authorization\LearningPlatform\LearningPlatforn.Application\bin\Debug\net8.0\LearningPlatform.Core.pdb
+C:\Users\kukli\Desktop\front-back-another\authorization\LearningPlatform\LearningPlatforn.Application\obj\Debug\net8.0\Learning.713300A5.Up2Date
+C:\Users\kukli\Desktop\front-back-another\authorization\LearningPlatform\LearningPlatforn.Application\obj\Debug\net8.0\LearningPlatform.Application.dll
+C:\Users\kukli\Desktop\front-back-another\authorization\LearningPlatform\LearningPlatforn.Application\obj\Debug\net8.0\refint\LearningPlatform.Application.dll
+C:\Users\kukli\Desktop\front-back-another\authorization\LearningPlatform\LearningPlatforn.Application\obj\Debug\net8.0\LearningPlatform.Application.pdb
+C:\Users\kukli\Desktop\front-back-another\authorization\LearningPlatform\LearningPlatforn.Application\obj\Debug\net8.0\ref\LearningPlatform.Application.dll

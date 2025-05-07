@@ -1,6 +1,6 @@
 ﻿using AutoMapper;
 using LearningPlatform.Core.Models;
-using LearningPlatform.Persistance.Entities;
+//using LearningPlatform.Persistance.Entities;
 using LearningPlatform.Persistence.Entities;
 
 namespace LearningPlatform.Persistence;

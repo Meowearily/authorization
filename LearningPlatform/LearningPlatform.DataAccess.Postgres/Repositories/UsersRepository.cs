@@ -1,9 +1,10 @@
 ﻿using AutoMapper;
 using LearningPlatform.Application.Interfaces;
 using LearningPlatform.Core.Models;
-using LearningPlatform.Persistance.Entities;
-using LearningPlatform.Persistance;
+using LearningPlatform.Persistence.Entities;
+using LearningPlatform.Persistence;
 using Microsoft.EntityFrameworkCore;
+using LearningPlatform.Application.Interfaces.Repositories;
 
 namespace LearningPlatform.Persistance.Repositories;
 public class UsersRepository : IUsersRepository

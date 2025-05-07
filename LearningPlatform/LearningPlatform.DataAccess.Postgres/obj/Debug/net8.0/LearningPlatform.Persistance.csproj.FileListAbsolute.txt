@@ -4,3 +4,17 @@ C:\Users\kukli\Desktop\front-back-another\authorization\LearningPlatform\Learnin
 C:\Users\kukli\Desktop\front-back-another\authorization\LearningPlatform\LearningPlatform.DataAccess.Postgres\obj\Debug\net8.0\LearningPlatform.Persistance.AssemblyInfo.cs
 C:\Users\kukli\Desktop\front-back-another\authorization\LearningPlatform\LearningPlatform.DataAccess.Postgres\obj\Debug\net8.0\LearningPlatform.Persistance.csproj.CoreCompileInputs.cache
 C:\Users\kukli\Desktop\front-back-another\authorization\LearningPlatform\LearningPlatform.DataAccess.Postgres\obj\Debug\net8.0\LearningPlatform.Persistance.sourcelink.json
+C:\Users\kukli\Desktop\front-back-another\authorization\LearningPlatform\LearningPlatform.DataAccess.Postgres\bin\Debug\net8.0\LearningPlatform.Persistance.deps.json
+C:\Users\kukli\Desktop\front-back-another\authorization\LearningPlatform\LearningPlatform.DataAccess.Postgres\bin\Debug\net8.0\LearningPlatform.Persistance.runtimeconfig.json
+C:\Users\kukli\Desktop\front-back-another\authorization\LearningPlatform\LearningPlatform.DataAccess.Postgres\bin\Debug\net8.0\LearningPlatform.Persistance.dll
+C:\Users\kukli\Desktop\front-back-another\authorization\LearningPlatform\LearningPlatform.DataAccess.Postgres\bin\Debug\net8.0\LearningPlatform.Persistance.pdb
+C:\Users\kukli\Desktop\front-back-another\authorization\LearningPlatform\LearningPlatform.DataAccess.Postgres\bin\Debug\net8.0\LearningPlatform.Application.dll
+C:\Users\kukli\Desktop\front-back-another\authorization\LearningPlatform\LearningPlatform.DataAccess.Postgres\bin\Debug\net8.0\LearningPlatform.Core.dll
+C:\Users\kukli\Desktop\front-back-another\authorization\LearningPlatform\LearningPlatform.DataAccess.Postgres\bin\Debug\net8.0\LearningPlatform.Application.pdb
+C:\Users\kukli\Desktop\front-back-another\authorization\LearningPlatform\LearningPlatform.DataAccess.Postgres\bin\Debug\net8.0\LearningPlatform.Core.pdb
+C:\Users\kukli\Desktop\front-back-another\authorization\LearningPlatform\LearningPlatform.DataAccess.Postgres\obj\Debug\net8.0\Learning.8272B9FB.Up2Date
+C:\Users\kukli\Desktop\front-back-another\authorization\LearningPlatform\LearningPlatform.DataAccess.Postgres\obj\Debug\net8.0\LearningPlatform.Persistance.dll
+C:\Users\kukli\Desktop\front-back-another\authorization\LearningPlatform\LearningPlatform.DataAccess.Postgres\obj\Debug\net8.0\refint\LearningPlatform.Persistance.dll
+C:\Users\kukli\Desktop\front-back-another\authorization\LearningPlatform\LearningPlatform.DataAccess.Postgres\obj\Debug\net8.0\LearningPlatform.Persistance.pdb
+C:\Users\kukli\Desktop\front-back-another\authorization\LearningPlatform\LearningPlatform.DataAccess.Postgres\obj\Debug\net8.0\LearningPlatform.Persistance.genruntimeconfig.cache
+C:\Users\kukli\Desktop\front-back-another\authorization\LearningPlatform\LearningPlatform.DataAccess.Postgres\obj\Debug\net8.0\ref\LearningPlatform.Persistance.dll

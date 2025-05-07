@@ -7,10 +7,10 @@ using LearningPlatform.Application.Services;
 using LearningPlatform.Persistance;
 using LearningPlatform.Persistance.Repositories;
 using LearningPlatform.Persistence;
-using LearningPlatform.Persistence.Repositories;
-using LearninPlatform.Infrastructure;
+//using LearningPlatform.Persistence.Repositories;
+using LearningPlatform.Infrastructure;
 using Microsoft.AspNetCore.CookiePolicy;
-using Microsoft.AspNetCore.Identity;
+//using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);

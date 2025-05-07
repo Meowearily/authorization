@@ -4,3 +4,15 @@ C:\Users\kukli\Desktop\front-back-another\authorization\LearningPlatform\Learnin
 C:\Users\kukli\Desktop\front-back-another\authorization\LearningPlatform\LearningPlatform.Ifrastructure\obj\Debug\net8.0\LearningPlatform.Infrastructure.AssemblyInfo.cs
 C:\Users\kukli\Desktop\front-back-another\authorization\LearningPlatform\LearningPlatform.Ifrastructure\obj\Debug\net8.0\LearningPlatform.Infrastructure.csproj.CoreCompileInputs.cache
 C:\Users\kukli\Desktop\front-back-another\authorization\LearningPlatform\LearningPlatform.Ifrastructure\obj\Debug\net8.0\LearningPlatform.Infrastructure.sourcelink.json
+C:\Users\kukli\Desktop\front-back-another\authorization\LearningPlatform\LearningPlatform.Ifrastructure\bin\Debug\net8.0\LearningPlatform.Infrastructure.deps.json
+C:\Users\kukli\Desktop\front-back-another\authorization\LearningPlatform\LearningPlatform.Ifrastructure\bin\Debug\net8.0\LearningPlatform.Infrastructure.dll
+C:\Users\kukli\Desktop\front-back-another\authorization\LearningPlatform\LearningPlatform.Ifrastructure\bin\Debug\net8.0\LearningPlatform.Infrastructure.pdb
+C:\Users\kukli\Desktop\front-back-another\authorization\LearningPlatform\LearningPlatform.Ifrastructure\bin\Debug\net8.0\LearningPlatform.Application.dll
+C:\Users\kukli\Desktop\front-back-another\authorization\LearningPlatform\LearningPlatform.Ifrastructure\bin\Debug\net8.0\LearningPlatform.Core.dll
+C:\Users\kukli\Desktop\front-back-another\authorization\LearningPlatform\LearningPlatform.Ifrastructure\bin\Debug\net8.0\LearningPlatform.Application.pdb
+C:\Users\kukli\Desktop\front-back-another\authorization\LearningPlatform\LearningPlatform.Ifrastructure\bin\Debug\net8.0\LearningPlatform.Core.pdb
+C:\Users\kukli\Desktop\front-back-another\authorization\LearningPlatform\LearningPlatform.Ifrastructure\obj\Debug\net8.0\Learning.95B1B73E.Up2Date
+C:\Users\kukli\Desktop\front-back-another\authorization\LearningPlatform\LearningPlatform.Ifrastructure\obj\Debug\net8.0\LearningPlatform.Infrastructure.dll
+C:\Users\kukli\Desktop\front-back-another\authorization\LearningPlatform\LearningPlatform.Ifrastructure\obj\Debug\net8.0\refint\LearningPlatform.Infrastructure.dll
+C:\Users\kukli\Desktop\front-back-another\authorization\LearningPlatform\LearningPlatform.Ifrastructure\obj\Debug\net8.0\LearningPlatform.Infrastructure.pdb
+C:\Users\kukli\Desktop\front-back-another\authorization\LearningPlatform\LearningPlatform.Ifrastructure\obj\Debug\net8.0\ref\LearningPlatform.Infrastructure.dll

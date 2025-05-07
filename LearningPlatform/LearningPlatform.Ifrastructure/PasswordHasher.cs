@@ -1,9 +1,11 @@
-﻿namespace LearningPlatform.Application.Services;
-public static class PasswordHasher
+﻿using LearningPlatform.Application.Interfaces.Auth;
+
+namespace LearningPlatform.Infrastructure;
+public class PasswordHasher : IPasswordHasher
 {
-    public static string Generate(string password)
+    public string Generate(string password)
         => BCrypt.Net.BCrypt.EnhancedHashPassword(password);
 
-    public static bool Verify(string password, string hashedPassword)
+    public bool Verify(string password, string hashedPassword)
         => BCrypt.Net.BCrypt.EnhancedVerify(password, hashedPassword);
 }

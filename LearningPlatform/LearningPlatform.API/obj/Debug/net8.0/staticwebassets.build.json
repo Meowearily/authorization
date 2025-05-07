@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "k4TzyT0UJcNUwNzJk/Y1saQhOWeCkeSYWogTWti2WyA=",
+  "Source": "LearningPlatform.API",
+  "BasePath": "_content/LearningPlatform.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

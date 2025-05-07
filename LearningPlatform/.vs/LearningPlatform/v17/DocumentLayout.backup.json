@@ -3,8 +3,80 @@
   "WorkspaceRootPath": "C:\\Users\\kukli\\Desktop\\front-back-another\\authorization\\LearningPlatform\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{260BBE02-292D-4897-B20D-869B452A4C0A}|LearningPlatform.DataAccess.Postgres\\LearningPlatform.Persistance.csproj|c:\\users\\kukli\\desktop\\front-back-another\\authorization\\learningplatform\\learningplatform.dataaccess.postgres\\migrations\\learningdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{260BBE02-292D-4897-B20D-869B452A4C0A}|LearningPlatform.DataAccess.Postgres\\LearningPlatform.Persistance.csproj|solutionrelative:learningplatform.dataaccess.postgres\\migrations\\learningdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDFA2CD9-EEB4-4045-BF7D-E9814360215F}|LearningPlatform.Ifrastructure\\LearningPlatform.Infrastructure.csproj|c:\\users\\kukli\\desktop\\front-back-another\\authorization\\learningplatform\\learningplatform.ifrastructure\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDFA2CD9-EEB4-4045-BF7D-E9814360215F}|LearningPlatform.Ifrastructure\\LearningPlatform.Infrastructure.csproj|solutionrelative:learningplatform.ifrastructure\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C133BBA-630A-42DC-88FD-DFFC089DC023}|LearningPlatform.API\\LearningPlatform.API.csproj|c:\\users\\kukli\\desktop\\front-back-another\\authorization\\learningplatform\\learningplatform.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C133BBA-630A-42DC-88FD-DFFC089DC023}|LearningPlatform.API\\LearningPlatform.API.csproj|solutionrelative:learningplatform.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{260BBE02-292D-4897-B20D-869B452A4C0A}|LearningPlatform.DataAccess.Postgres\\LearningPlatform.Persistance.csproj|c:\\users\\kukli\\desktop\\front-back-another\\authorization\\learningplatform\\learningplatform.dataaccess.postgres\\migrations\\20240115105919_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{260BBE02-292D-4897-B20D-869B452A4C0A}|LearningPlatform.DataAccess.Postgres\\LearningPlatform.Persistance.csproj|solutionrelative:learningplatform.dataaccess.postgres\\migrations\\20240115105919_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{260BBE02-292D-4897-B20D-869B452A4C0A}|LearningPlatform.DataAccess.Postgres\\LearningPlatform.Persistance.csproj|c:\\users\\kukli\\desktop\\front-back-another\\authorization\\learningplatform\\learningplatform.dataaccess.postgres\\migrations\\20240115105919_initial.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{260BBE02-292D-4897-B20D-869B452A4C0A}|LearningPlatform.DataAccess.Postgres\\LearningPlatform.Persistance.csproj|solutionrelative:learningplatform.dataaccess.postgres\\migrations\\20240115105919_initial.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{260BBE02-292D-4897-B20D-869B452A4C0A}|LearningPlatform.DataAccess.Postgres\\LearningPlatform.Persistance.csproj|c:\\users\\kukli\\desktop\\front-back-another\\authorization\\learningplatform\\learningplatform.dataaccess.postgres\\repositories\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{260BBE02-292D-4897-B20D-869B452A4C0A}|LearningPlatform.DataAccess.Postgres\\LearningPlatform.Persistance.csproj|solutionrelative:learningplatform.dataaccess.postgres\\repositories\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{260BBE02-292D-4897-B20D-869B452A4C0A}|LearningPlatform.DataAccess.Postgres\\LearningPlatform.Persistance.csproj|c:\\users\\kukli\\desktop\\front-back-another\\authorization\\learningplatform\\learningplatform.dataaccess.postgres\\repositories\\lessonsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{260BBE02-292D-4897-B20D-869B452A4C0A}|LearningPlatform.DataAccess.Postgres\\LearningPlatform.Persistance.csproj|solutionrelative:learningplatform.dataaccess.postgres\\repositories\\lessonsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{260BBE02-292D-4897-B20D-869B452A4C0A}|LearningPlatform.DataAccess.Postgres\\LearningPlatform.Persistance.csproj|c:\\users\\kukli\\desktop\\front-back-another\\authorization\\learningplatform\\learningplatform.dataaccess.postgres\\repositories\\usersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{260BBE02-292D-4897-B20D-869B452A4C0A}|LearningPlatform.DataAccess.Postgres\\LearningPlatform.Persistance.csproj|solutionrelative:learningplatform.dataaccess.postgres\\repositories\\usersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{260BBE02-292D-4897-B20D-869B452A4C0A}|LearningPlatform.DataAccess.Postgres\\LearningPlatform.Persistance.csproj|c:\\users\\kukli\\desktop\\front-back-another\\authorization\\learningplatform\\learningplatform.dataaccess.postgres\\entities\\courseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{260BBE02-292D-4897-B20D-869B452A4C0A}|LearningPlatform.DataAccess.Postgres\\LearningPlatform.Persistance.csproj|solutionrelative:learningplatform.dataaccess.postgres\\entities\\courseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{773193DB-3981-4577-9108-4D4147C873EB}|LearningPlatforn.Application\\LearningPlatform.Application.csproj|c:\\users\\kukli\\desktop\\front-back-another\\authorization\\learningplatform\\learningplatforn.application\\learningplatform.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{773193DB-3981-4577-9108-4D4147C873EB}|LearningPlatforn.Application\\LearningPlatform.Application.csproj|solutionrelative:learningplatforn.application\\learningplatform.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{260BBE02-292D-4897-B20D-869B452A4C0A}|LearningPlatform.DataAccess.Postgres\\LearningPlatform.Persistance.csproj|c:\\users\\kukli\\desktop\\front-back-another\\authorization\\learningplatform\\learningplatform.dataaccess.postgres\\configurations\\lessonconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{260BBE02-292D-4897-B20D-869B452A4C0A}|LearningPlatform.DataAccess.Postgres\\LearningPlatform.Persistance.csproj|solutionrelative:learningplatform.dataaccess.postgres\\configurations\\lessonconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{260BBE02-292D-4897-B20D-869B452A4C0A}|LearningPlatform.DataAccess.Postgres\\LearningPlatform.Persistance.csproj|c:\\users\\kukli\\desktop\\front-back-another\\authorization\\learningplatform\\learningplatform.dataaccess.postgres\\databasemapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{260BBE02-292D-4897-B20D-869B452A4C0A}|LearningPlatform.DataAccess.Postgres\\LearningPlatform.Persistance.csproj|solutionrelative:learningplatform.dataaccess.postgres\\databasemapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{260BBE02-292D-4897-B20D-869B452A4C0A}|LearningPlatform.DataAccess.Postgres\\LearningPlatform.Persistance.csproj|c:\\users\\kukli\\desktop\\front-back-another\\authorization\\learningplatform\\learningplatform.dataaccess.postgres\\configurations\\courseconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{260BBE02-292D-4897-B20D-869B452A4C0A}|LearningPlatform.DataAccess.Postgres\\LearningPlatform.Persistance.csproj|solutionrelative:learningplatform.dataaccess.postgres\\configurations\\courseconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{773193DB-3981-4577-9108-4D4147C873EB}|LearningPlatforn.Application\\LearningPlatform.Application.csproj|c:\\users\\kukli\\desktop\\front-back-another\\authorization\\learningplatform\\learningplatforn.application\\services\\lessonsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{773193DB-3981-4577-9108-4D4147C873EB}|LearningPlatforn.Application\\LearningPlatform.Application.csproj|solutionrelative:learningplatforn.application\\services\\lessonsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{773193DB-3981-4577-9108-4D4147C873EB}|LearningPlatforn.Application\\LearningPlatform.Application.csproj|c:\\users\\kukli\\desktop\\front-back-another\\authorization\\learningplatform\\learningplatforn.application\\services\\coursesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{773193DB-3981-4577-9108-4D4147C873EB}|LearningPlatforn.Application\\LearningPlatform.Application.csproj|solutionrelative:learningplatforn.application\\services\\coursesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDFA2CD9-EEB4-4045-BF7D-E9814360215F}|LearningPlatform.Ifrastructure\\LearningPlatform.Infrastructure.csproj|c:\\users\\kukli\\desktop\\front-back-another\\authorization\\learningplatform\\learningplatform.ifrastructure\\learningplatform.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FDFA2CD9-EEB4-4045-BF7D-E9814360215F}|LearningPlatform.Ifrastructure\\LearningPlatform.Infrastructure.csproj|solutionrelative:learningplatform.ifrastructure\\learningplatform.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{260BBE02-292D-4897-B20D-869B452A4C0A}|LearningPlatform.DataAccess.Postgres\\LearningPlatform.Persistance.csproj|c:\\users\\kukli\\desktop\\front-back-another\\authorization\\learningplatform\\learningplatform.dataaccess.postgres\\learningplatform.persistance.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{260BBE02-292D-4897-B20D-869B452A4C0A}|LearningPlatform.DataAccess.Postgres\\LearningPlatform.Persistance.csproj|solutionrelative:learningplatform.dataaccess.postgres\\learningplatform.persistance.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD7F3D0-80EC-4EE0-8384-FB7C39BCCDDC}|LearningPlatform.Core\\LearningPlatform.Core.csproj|c:\\users\\kukli\\desktop\\front-back-another\\authorization\\learningplatform\\learningplatform.core\\learningplatform.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7DD7F3D0-80EC-4EE0-8384-FB7C39BCCDDC}|LearningPlatform.Core\\LearningPlatform.Core.csproj|solutionrelative:learningplatform.core\\learningplatform.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C133BBA-630A-42DC-88FD-DFFC089DC023}|LearningPlatform.API\\LearningPlatform.API.csproj|c:\\users\\kukli\\desktop\\front-back-another\\authorization\\learningplatform\\learningplatform.api\\learningplatform.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0C133BBA-630A-42DC-88FD-DFFC089DC023}|LearningPlatform.API\\LearningPlatform.API.csproj|solutionrelative:learningplatform.api\\learningplatform.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{260BBE02-292D-4897-B20D-869B452A4C0A}|LearningPlatform.DataAccess.Postgres\\LearningPlatform.Persistance.csproj|c:\\users\\kukli\\desktop\\front-back-another\\authorization\\learningplatform\\learningplatform.dataaccess.postgres\\learningdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,22 +95,6 @@
       "RelativeMoniker": "D:0:0:{260BBE02-292D-4897-B20D-869B452A4C0A}|LearningPlatform.DataAccess.Postgres\\LearningPlatform.Persistance.csproj|solutionrelative:learningplatform.dataaccess.postgres\\entities\\lessonentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{260BBE02-292D-4897-B20D-869B452A4C0A}|LearningPlatform.DataAccess.Postgres\\LearningPlatform.Persistance.csproj|c:\\users\\kukli\\desktop\\front-back-another\\authorization\\learningplatform\\learningplatform.dataaccess.postgres\\entities\\courseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{260BBE02-292D-4897-B20D-869B452A4C0A}|LearningPlatform.DataAccess.Postgres\\LearningPlatform.Persistance.csproj|solutionrelative:learningplatform.dataaccess.postgres\\entities\\courseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{260BBE02-292D-4897-B20D-869B452A4C0A}|LearningPlatform.DataAccess.Postgres\\LearningPlatform.Persistance.csproj|c:\\users\\kukli\\desktop\\front-back-another\\authorization\\learningplatform\\learningplatform.dataaccess.postgres\\databasemapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{260BBE02-292D-4897-B20D-869B452A4C0A}|LearningPlatform.DataAccess.Postgres\\LearningPlatform.Persistance.csproj|solutionrelative:learningplatform.dataaccess.postgres\\databasemapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{260BBE02-292D-4897-B20D-869B452A4C0A}|LearningPlatform.DataAccess.Postgres\\LearningPlatform.Persistance.csproj|c:\\users\\kukli\\desktop\\front-back-another\\authorization\\learningplatform\\learningplatform.dataaccess.postgres\\configurations\\lessonconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{260BBE02-292D-4897-B20D-869B452A4C0A}|LearningPlatform.DataAccess.Postgres\\LearningPlatform.Persistance.csproj|solutionrelative:learningplatform.dataaccess.postgres\\configurations\\lessonconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{260BBE02-292D-4897-B20D-869B452A4C0A}|LearningPlatform.DataAccess.Postgres\\LearningPlatform.Persistance.csproj|c:\\users\\kukli\\desktop\\front-back-another\\authorization\\learningplatform\\learningplatform.dataaccess.postgres\\configurations\\courseconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{260BBE02-292D-4897-B20D-869B452A4C0A}|LearningPlatform.DataAccess.Postgres\\LearningPlatform.Persistance.csproj|solutionrelative:learningplatform.dataaccess.postgres\\configurations\\courseconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{773193DB-3981-4577-9108-4D4147C873EB}|LearningPlatforn.Application\\LearningPlatform.Application.csproj|c:\\users\\kukli\\desktop\\front-back-another\\authorization\\learningplatform\\learningplatforn.application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{773193DB-3981-4577-9108-4D4147C873EB}|LearningPlatforn.Application\\LearningPlatform.Application.csproj|solutionrelative:learningplatforn.application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -49,10 +105,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{773193DB-3981-4577-9108-4D4147C873EB}|LearningPlatforn.Application\\LearningPlatform.Application.csproj|c:\\users\\kukli\\desktop\\front-back-another\\authorization\\learningplatform\\learningplatforn.application\\interfaces\\repositories\\ilessonsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{773193DB-3981-4577-9108-4D4147C873EB}|LearningPlatforn.Application\\LearningPlatform.Application.csproj|solutionrelative:learningplatforn.application\\interfaces\\repositories\\ilessonsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0C133BBA-630A-42DC-88FD-DFFC089DC023}|LearningPlatform.API\\LearningPlatform.API.csproj|c:\\users\\kukli\\desktop\\front-back-another\\authorization\\learningplatform\\learningplatform.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C133BBA-630A-42DC-88FD-DFFC089DC023}|LearningPlatform.API\\LearningPlatform.API.csproj|solutionrelative:learningplatform.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0C133BBA-630A-42DC-88FD-DFFC089DC023}|LearningPlatform.API\\LearningPlatform.API.csproj|c:\\users\\kukli\\desktop\\front-back-another\\authorization\\learningplatform\\learningplatform.api\\endpoints\\usersendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -71,19 +123,257 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "LearningDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\kukli\\Desktop\\front-back-another\\authorization\\LearningPlatform\\LearningPlatform.DataAccess.Postgres\\Migrations\\LearningDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "LearningPlatform.DataAccess.Postgres\\Migrations\\LearningDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\kukli\\Desktop\\front-back-another\\authorization\\LearningPlatform\\LearningPlatform.DataAccess.Postgres\\Migrations\\LearningDbContextModelSnapshot.cs*",
+              "RelativeToolTip": "LearningPlatform.DataAccess.Postgres\\Migrations\\LearningDbContextModelSnapshot.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T11:26:41.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20240115105919_initial.cs",
+              "DocumentMoniker": "C:\\Users\\kukli\\Desktop\\front-back-another\\authorization\\LearningPlatform\\LearningPlatform.DataAccess.Postgres\\Migrations\\20240115105919_initial.cs",
+              "RelativeDocumentMoniker": "LearningPlatform.DataAccess.Postgres\\Migrations\\20240115105919_initial.cs",
+              "ToolTip": "C:\\Users\\kukli\\Desktop\\front-back-another\\authorization\\LearningPlatform\\LearningPlatform.DataAccess.Postgres\\Migrations\\20240115105919_initial.cs",
+              "RelativeToolTip": "LearningPlatform.DataAccess.Postgres\\Migrations\\20240115105919_initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T11:25:07.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PasswordHasher.cs",
+              "DocumentMoniker": "C:\\Users\\kukli\\Desktop\\front-back-another\\authorization\\LearningPlatform\\LearningPlatform.Ifrastructure\\PasswordHasher.cs",
+              "RelativeDocumentMoniker": "LearningPlatform.Ifrastructure\\PasswordHasher.cs",
+              "ToolTip": "C:\\Users\\kukli\\Desktop\\front-back-another\\authorization\\LearningPlatform\\LearningPlatform.Ifrastructure\\PasswordHasher.cs",
+              "RelativeToolTip": "LearningPlatform.Ifrastructure\\PasswordHasher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T11:22:21.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20240115105919_initial.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\kukli\\Desktop\\front-back-another\\authorization\\LearningPlatform\\LearningPlatform.DataAccess.Postgres\\Migrations\\20240115105919_initial.Designer.cs",
+              "RelativeDocumentMoniker": "LearningPlatform.DataAccess.Postgres\\Migrations\\20240115105919_initial.Designer.cs",
+              "ToolTip": "C:\\Users\\kukli\\Desktop\\front-back-another\\authorization\\LearningPlatform\\LearningPlatform.DataAccess.Postgres\\Migrations\\20240115105919_initial.Designer.cs",
+              "RelativeToolTip": "LearningPlatform.DataAccess.Postgres\\Migrations\\20240115105919_initial.Designer.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAA4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T11:18:03.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LessonsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kukli\\Desktop\\front-back-another\\authorization\\LearningPlatform\\LearningPlatform.DataAccess.Postgres\\Repositories\\LessonsRepository.cs",
+              "RelativeDocumentMoniker": "LearningPlatform.DataAccess.Postgres\\Repositories\\LessonsRepository.cs",
+              "ToolTip": "C:\\Users\\kukli\\Desktop\\front-back-another\\authorization\\LearningPlatform\\LearningPlatform.DataAccess.Postgres\\Repositories\\LessonsRepository.cs",
+              "RelativeToolTip": "LearningPlatform.DataAccess.Postgres\\Repositories\\LessonsRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T11:16:56.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CourseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kukli\\Desktop\\front-back-another\\authorization\\LearningPlatform\\LearningPlatform.DataAccess.Postgres\\Repositories\\CourseRepository.cs",
+              "RelativeDocumentMoniker": "LearningPlatform.DataAccess.Postgres\\Repositories\\CourseRepository.cs",
+              "ToolTip": "C:\\Users\\kukli\\Desktop\\front-back-another\\authorization\\LearningPlatform\\LearningPlatform.DataAccess.Postgres\\Repositories\\CourseRepository.cs",
+              "RelativeToolTip": "LearningPlatform.DataAccess.Postgres\\Repositories\\CourseRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T11:16:47.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CourseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\kukli\\Desktop\\front-back-another\\authorization\\LearningPlatform\\LearningPlatform.DataAccess.Postgres\\Entities\\CourseEntity.cs",
+              "RelativeDocumentMoniker": "LearningPlatform.DataAccess.Postgres\\Entities\\CourseEntity.cs",
+              "ToolTip": "C:\\Users\\kukli\\Desktop\\front-back-another\\authorization\\LearningPlatform\\LearningPlatform.DataAccess.Postgres\\Entities\\CourseEntity.cs",
+              "RelativeToolTip": "LearningPlatform.DataAccess.Postgres\\Entities\\CourseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T19:31:51.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kukli\\Desktop\\front-back-another\\authorization\\LearningPlatform\\LearningPlatform.API\\Program.cs",
+              "RelativeDocumentMoniker": "LearningPlatform.API\\Program.cs",
+              "ToolTip": "C:\\Users\\kukli\\Desktop\\front-back-another\\authorization\\LearningPlatform\\LearningPlatform.API\\Program.cs",
+              "RelativeToolTip": "LearningPlatform.API\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T18:42:06.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LearningPlatform.Application",
+              "DocumentMoniker": "C:\\Users\\kukli\\Desktop\\front-back-another\\authorization\\LearningPlatform\\LearningPlatforn.Application\\LearningPlatform.Application.csproj",
+              "RelativeDocumentMoniker": "LearningPlatforn.Application\\LearningPlatform.Application.csproj",
+              "ToolTip": "C:\\Users\\kukli\\Desktop\\front-back-another\\authorization\\LearningPlatform\\LearningPlatforn.Application\\LearningPlatform.Application.csproj",
+              "RelativeToolTip": "LearningPlatforn.Application\\LearningPlatform.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-07T11:10:14.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "UsersRepository.cs",
               "DocumentMoniker": "C:\\Users\\kukli\\Desktop\\front-back-another\\authorization\\LearningPlatform\\LearningPlatform.DataAccess.Postgres\\Repositories\\UsersRepository.cs",
               "RelativeDocumentMoniker": "LearningPlatform.DataAccess.Postgres\\Repositories\\UsersRepository.cs",
               "ToolTip": "C:\\Users\\kukli\\Desktop\\front-back-another\\authorization\\LearningPlatform\\LearningPlatform.DataAccess.Postgres\\Repositories\\UsersRepository.cs",
               "RelativeToolTip": "LearningPlatform.DataAccess.Postgres\\Repositories\\UsersRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-01T19:35:41.336Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
+              "Title": "LessonConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\kukli\\Desktop\\front-back-another\\authorization\\LearningPlatform\\LearningPlatform.DataAccess.Postgres\\Configurations\\LessonConfiguration.cs",
+              "RelativeDocumentMoniker": "LearningPlatform.DataAccess.Postgres\\Configurations\\LessonConfiguration.cs",
+              "ToolTip": "C:\\Users\\kukli\\Desktop\\front-back-another\\authorization\\LearningPlatform\\LearningPlatform.DataAccess.Postgres\\Configurations\\LessonConfiguration.cs",
+              "RelativeToolTip": "LearningPlatform.DataAccess.Postgres\\Configurations\\LessonConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T19:30:48.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CourseConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\kukli\\Desktop\\front-back-another\\authorization\\LearningPlatform\\LearningPlatform.DataAccess.Postgres\\Configurations\\CourseConfiguration.cs",
+              "RelativeDocumentMoniker": "LearningPlatform.DataAccess.Postgres\\Configurations\\CourseConfiguration.cs",
+              "ToolTip": "C:\\Users\\kukli\\Desktop\\front-back-another\\authorization\\LearningPlatform\\LearningPlatform.DataAccess.Postgres\\Configurations\\CourseConfiguration.cs",
+              "RelativeToolTip": "LearningPlatform.DataAccess.Postgres\\Configurations\\CourseConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T19:30:31.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LessonsService.cs",
+              "DocumentMoniker": "C:\\Users\\kukli\\Desktop\\front-back-another\\authorization\\LearningPlatform\\LearningPlatforn.Application\\Services\\LessonsService.cs",
+              "RelativeDocumentMoniker": "LearningPlatforn.Application\\Services\\LessonsService.cs",
+              "ToolTip": "C:\\Users\\kukli\\Desktop\\front-back-another\\authorization\\LearningPlatform\\LearningPlatforn.Application\\Services\\LessonsService.cs",
+              "RelativeToolTip": "LearningPlatforn.Application\\Services\\LessonsService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T11:11:54.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CoursesService.cs",
+              "DocumentMoniker": "C:\\Users\\kukli\\Desktop\\front-back-another\\authorization\\LearningPlatform\\LearningPlatforn.Application\\Services\\CoursesService.cs",
+              "RelativeDocumentMoniker": "LearningPlatforn.Application\\Services\\CoursesService.cs",
+              "ToolTip": "C:\\Users\\kukli\\Desktop\\front-back-another\\authorization\\LearningPlatform\\LearningPlatforn.Application\\Services\\CoursesService.cs",
+              "RelativeToolTip": "LearningPlatforn.Application\\Services\\CoursesService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T11:11:36.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LearningPlatform.Persistance",
+              "DocumentMoniker": "C:\\Users\\kukli\\Desktop\\front-back-another\\authorization\\LearningPlatform\\LearningPlatform.DataAccess.Postgres\\LearningPlatform.Persistance.csproj",
+              "RelativeDocumentMoniker": "LearningPlatform.DataAccess.Postgres\\LearningPlatform.Persistance.csproj",
+              "ToolTip": "C:\\Users\\kukli\\Desktop\\front-back-another\\authorization\\LearningPlatform\\LearningPlatform.DataAccess.Postgres\\LearningPlatform.Persistance.csproj",
+              "RelativeToolTip": "LearningPlatform.DataAccess.Postgres\\LearningPlatform.Persistance.csproj",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-07T11:10:36.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DataBaseMapping.cs",
+              "DocumentMoniker": "C:\\Users\\kukli\\Desktop\\front-back-another\\authorization\\LearningPlatform\\LearningPlatform.DataAccess.Postgres\\DataBaseMapping.cs",
+              "RelativeDocumentMoniker": "LearningPlatform.DataAccess.Postgres\\DataBaseMapping.cs",
+              "ToolTip": "C:\\Users\\kukli\\Desktop\\front-back-another\\authorization\\LearningPlatform\\LearningPlatform.DataAccess.Postgres\\DataBaseMapping.cs",
+              "RelativeToolTip": "LearningPlatform.DataAccess.Postgres\\DataBaseMapping.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T19:31:33.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LearningPlatform.Core",
+              "DocumentMoniker": "C:\\Users\\kukli\\Desktop\\front-back-another\\authorization\\LearningPlatform\\LearningPlatform.Core\\LearningPlatform.Core.csproj",
+              "RelativeDocumentMoniker": "LearningPlatform.Core\\LearningPlatform.Core.csproj",
+              "ToolTip": "C:\\Users\\kukli\\Desktop\\front-back-another\\authorization\\LearningPlatform\\LearningPlatform.Core\\LearningPlatform.Core.csproj",
+              "RelativeToolTip": "LearningPlatform.Core\\LearningPlatform.Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-07T11:10:31.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LearningPlatform.API",
+              "DocumentMoniker": "C:\\Users\\kukli\\Desktop\\front-back-another\\authorization\\LearningPlatform\\LearningPlatform.API\\LearningPlatform.API.csproj",
+              "RelativeDocumentMoniker": "LearningPlatform.API\\LearningPlatform.API.csproj",
+              "ToolTip": "C:\\Users\\kukli\\Desktop\\front-back-another\\authorization\\LearningPlatform\\LearningPlatform.API\\LearningPlatform.API.csproj",
+              "RelativeToolTip": "LearningPlatform.API\\LearningPlatform.API.csproj",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABoAAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-07T11:09:24.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LearningPlatform.Infrastructure",
+              "DocumentMoniker": "C:\\Users\\kukli\\Desktop\\front-back-another\\authorization\\LearningPlatform\\LearningPlatform.Ifrastructure\\LearningPlatform.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "LearningPlatform.Ifrastructure\\LearningPlatform.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\kukli\\Desktop\\front-back-another\\authorization\\LearningPlatform\\LearningPlatform.Ifrastructure\\LearningPlatform.Infrastructure.csproj",
+              "RelativeToolTip": "LearningPlatform.Ifrastructure\\LearningPlatform.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-07T11:07:31.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
               "Title": "ExceptionMiddleware.cs",
               "DocumentMoniker": "C:\\Users\\kukli\\Desktop\\front-back-another\\authorization\\LearningPlatform\\LearningPlatform.API\\Middlewares\\ExceptionMiddleware.cs",
               "RelativeDocumentMoniker": "LearningPlatform.API\\Middlewares\\ExceptionMiddleware.cs",
@@ -96,7 +386,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 19,
               "Title": "LearningDbContext.cs",
               "DocumentMoniker": "C:\\Users\\kukli\\Desktop\\front-back-another\\authorization\\LearningPlatform\\LearningPlatform.DataAccess.Postgres\\LearningDbContext.cs",
               "RelativeDocumentMoniker": "LearningPlatform.DataAccess.Postgres\\LearningDbContext.cs",
@@ -109,7 +399,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 21,
               "Title": "UserEntity.cs",
               "DocumentMoniker": "C:\\Users\\kukli\\Desktop\\front-back-another\\authorization\\LearningPlatform\\LearningPlatform.DataAccess.Postgres\\Entities\\UserEntity.cs",
               "RelativeDocumentMoniker": "LearningPlatform.DataAccess.Postgres\\Entities\\UserEntity.cs",
@@ -122,72 +412,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 22,
               "Title": "LessonEntity.cs",
               "DocumentMoniker": "C:\\Users\\kukli\\Desktop\\front-back-another\\authorization\\LearningPlatform\\LearningPlatform.DataAccess.Postgres\\Entities\\LessonEntity.cs",
               "RelativeDocumentMoniker": "LearningPlatform.DataAccess.Postgres\\Entities\\LessonEntity.cs",
               "ToolTip": "C:\\Users\\kukli\\Desktop\\front-back-another\\authorization\\LearningPlatform\\LearningPlatform.DataAccess.Postgres\\Entities\\LessonEntity.cs",
               "RelativeToolTip": "LearningPlatform.DataAccess.Postgres\\Entities\\LessonEntity.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAA1wBIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-01T19:32:12.709Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CourseEntity.cs",
-              "DocumentMoniker": "C:\\Users\\kukli\\Desktop\\front-back-another\\authorization\\LearningPlatform\\LearningPlatform.DataAccess.Postgres\\Entities\\CourseEntity.cs",
-              "RelativeDocumentMoniker": "LearningPlatform.DataAccess.Postgres\\Entities\\CourseEntity.cs",
-              "ToolTip": "C:\\Users\\kukli\\Desktop\\front-back-another\\authorization\\LearningPlatform\\LearningPlatform.DataAccess.Postgres\\Entities\\CourseEntity.cs",
-              "RelativeToolTip": "LearningPlatform.DataAccess.Postgres\\Entities\\CourseEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-01T19:31:51.317Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "DataBaseMapping.cs",
-              "DocumentMoniker": "C:\\Users\\kukli\\Desktop\\front-back-another\\authorization\\LearningPlatform\\LearningPlatform.DataAccess.Postgres\\DataBaseMapping.cs",
-              "RelativeDocumentMoniker": "LearningPlatform.DataAccess.Postgres\\DataBaseMapping.cs",
-              "ToolTip": "C:\\Users\\kukli\\Desktop\\front-back-another\\authorization\\LearningPlatform\\LearningPlatform.DataAccess.Postgres\\DataBaseMapping.cs",
-              "RelativeToolTip": "LearningPlatform.DataAccess.Postgres\\DataBaseMapping.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-01T19:31:33.829Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "LessonConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\kukli\\Desktop\\front-back-another\\authorization\\LearningPlatform\\LearningPlatform.DataAccess.Postgres\\Configurations\\LessonConfiguration.cs",
-              "RelativeDocumentMoniker": "LearningPlatform.DataAccess.Postgres\\Configurations\\LessonConfiguration.cs",
-              "ToolTip": "C:\\Users\\kukli\\Desktop\\front-back-another\\authorization\\LearningPlatform\\LearningPlatform.DataAccess.Postgres\\Configurations\\LessonConfiguration.cs",
-              "RelativeToolTip": "LearningPlatform.DataAccess.Postgres\\Configurations\\LessonConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-01T19:30:48.176Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "CourseConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\kukli\\Desktop\\front-back-another\\authorization\\LearningPlatform\\LearningPlatform.DataAccess.Postgres\\Configurations\\CourseConfiguration.cs",
-              "RelativeDocumentMoniker": "LearningPlatform.DataAccess.Postgres\\Configurations\\CourseConfiguration.cs",
-              "ToolTip": "C:\\Users\\kukli\\Desktop\\front-back-another\\authorization\\LearningPlatform\\LearningPlatform.DataAccess.Postgres\\Configurations\\CourseConfiguration.cs",
-              "RelativeToolTip": "LearningPlatform.DataAccess.Postgres\\Configurations\\CourseConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-01T19:30:31.677Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 23,
               "Title": "UserService.cs",
               "DocumentMoniker": "C:\\Users\\kukli\\Desktop\\front-back-another\\authorization\\LearningPlatform\\LearningPlatforn.Application\\Services\\UserService.cs",
               "RelativeDocumentMoniker": "LearningPlatforn.Application\\Services\\UserService.cs",
@@ -200,7 +438,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 24,
               "Title": "IUsersRepository.cs",
               "DocumentMoniker": "C:\\Users\\kukli\\Desktop\\front-back-another\\authorization\\LearningPlatform\\LearningPlatforn.Application\\Interfaces\\Repositories\\IUsersRepository.cs",
               "RelativeDocumentMoniker": "LearningPlatforn.Application\\Interfaces\\Repositories\\IUsersRepository.cs",
@@ -213,7 +451,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 25,
               "Title": "ILessonsRepository.cs",
               "DocumentMoniker": "C:\\Users\\kukli\\Desktop\\front-back-another\\authorization\\LearningPlatform\\LearningPlatforn.Application\\Interfaces\\Repositories\\ILessonsRepository.cs",
               "RelativeDocumentMoniker": "LearningPlatforn.Application\\Interfaces\\Repositories\\ILessonsRepository.cs",
@@ -226,7 +464,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 26,
               "Title": "UsersEndpoints.cs",
               "DocumentMoniker": "C:\\Users\\kukli\\Desktop\\front-back-another\\authorization\\LearningPlatform\\LearningPlatform.API\\Endpoints\\UsersEndpoints.cs",
               "RelativeDocumentMoniker": "LearningPlatform.API\\Endpoints\\UsersEndpoints.cs",
@@ -235,23 +473,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-01T19:23:42.897Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\kukli\\Desktop\\front-back-another\\authorization\\LearningPlatform\\LearningPlatform.API\\Program.cs",
-              "RelativeDocumentMoniker": "LearningPlatform.API\\Program.cs",
-              "ToolTip": "C:\\Users\\kukli\\Desktop\\front-back-another\\authorization\\LearningPlatform\\LearningPlatform.API\\Program.cs",
-              "RelativeToolTip": "LearningPlatform.API\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-01T18:42:06.732Z",
               "EditorCaption": ""
             }
           ]
