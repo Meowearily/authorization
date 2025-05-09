@@ -10,3 +10,6 @@ C:\Users\kukli\Desktop\front-back-another\authorization\LearningPlatform\Learnin
 C:\Users\kukli\Desktop\front-back-another\authorization\LearningPlatform\LearningPlatform.Core\obj\Debug\net8.0\refint\LearningPlatform.Core.dll
 C:\Users\kukli\Desktop\front-back-another\authorization\LearningPlatform\LearningPlatform.Core\obj\Debug\net8.0\LearningPlatform.Core.pdb
 C:\Users\kukli\Desktop\front-back-another\authorization\LearningPlatform\LearningPlatform.Core\obj\Debug\net8.0\ref\LearningPlatform.Core.dll
+C:\Users\kukli\Desktop\front-back-another\authorization\LearningPlatform\LearningPlatform.Core\bin\Debug\net8.0\LearningPlatform.Core.runtimeconfig.json
+C:\Users\kukli\Desktop\front-back-another\authorization\LearningPlatform\LearningPlatform.Core\obj\Debug\net8.0\LearningPlatform.Core.csproj.AssemblyReference.cache
+C:\Users\kukli\Desktop\front-back-another\authorization\LearningPlatform\LearningPlatform.Core\obj\Debug\net8.0\LearningPlatform.Core.genruntimeconfig.cache
