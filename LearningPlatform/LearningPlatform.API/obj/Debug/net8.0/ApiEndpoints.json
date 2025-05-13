@@ -110,28 +110,6 @@
   },
   {
     "ContainingType": "LearningPlatform.API.Endpoints.LessonsEndpoints",
-    "Method": "GetLessons",
-    "RelativePath": "lessons/course/{courseId:guid}",
-    "HttpMethod": "GET",
-    "IsController": false,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "courseId",
-        "Type": "System.Guid",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": [
-      {
-        "Type": "System.Void",
-        "MediaTypes": [],
-        "StatusCode": 200
-      }
-    ]
-  },
-  {
-    "ContainingType": "LearningPlatform.API.Endpoints.LessonsEndpoints",
     "Method": "CreateLesson",
     "RelativePath": "lessons/{courseId:guid}",
     "HttpMethod": "POST",
@@ -216,6 +194,28 @@
     "Parameters": [
       {
         "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "LearningPlatform.API.Endpoints.LessonsEndpoints",
+    "Method": "GetLessons",
+    "RelativePath": "lessons/course/{courseId:guid}",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "courseId",
         "Type": "System.Guid",
         "IsRequired": true
       }

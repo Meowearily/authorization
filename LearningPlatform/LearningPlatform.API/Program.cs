@@ -27,7 +27,8 @@ services.AddTransient<ExceptionMiddleware>();
 
 services.AddDbContext<LearningDbContext>(options =>
 {
-    options.UseNpgsql(configuration.GetConnectionString(nameof(LearningDbContext)));
+    //options.UseNpgsql(configuration.GetConnectionString(nameof(LearningDbContext)));
+    options.UseSqlServer(builder.Configuration.GetConnectionString("LearningDbContext"));
 });
 
 services.AddScoped<IJwtProvider, JwtProvider>();

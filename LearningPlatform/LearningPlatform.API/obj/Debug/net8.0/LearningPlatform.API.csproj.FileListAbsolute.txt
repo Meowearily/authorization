@@ -186,3 +186,4 @@ C:\Users\kukli\Desktop\front-back-another\authorization\LearningPlatform\Learnin
 C:\Users\kukli\Desktop\front-back-another\authorization\LearningPlatform\LearningPlatform.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 C:\Users\kukli\Desktop\front-back-another\authorization\LearningPlatform\LearningPlatform.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 C:\Users\kukli\Desktop\front-back-another\authorization\LearningPlatform\LearningPlatform.API\obj\Debug\net8.0\LearningPlatform.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\kukli\Desktop\front-back-another\authorization\LearningPlatform\LearningPlatform.API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
