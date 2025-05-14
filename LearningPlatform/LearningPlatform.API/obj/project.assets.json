@@ -1810,7 +1810,7 @@
           "bin/placeholder/LearningPlatform.Infrastructure.dll": {}
         }
       },
-      "LearningPlatform.Persistance/1.0.0": {
+      "LearningPlatform.Persistence/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
@@ -1822,10 +1822,10 @@
           "Npgsql.EntityFrameworkCore.PostgreSQL": "9.0.4"
         },
         "compile": {
-          "bin/placeholder/LearningPlatform.Persistance.dll": {}
+          "bin/placeholder/LearningPlatform.Persistence.dll": {}
         },
         "runtime": {
-          "bin/placeholder/LearningPlatform.Persistance.dll": {}
+          "bin/placeholder/LearningPlatform.Persistence.dll": {}
         }
       }
     }
@@ -5310,10 +5310,10 @@
       "path": "../LearningPlatform.Ifrastructure/LearningPlatform.Infrastructure.csproj",
       "msbuildProject": "../LearningPlatform.Ifrastructure/LearningPlatform.Infrastructure.csproj"
     },
-    "LearningPlatform.Persistance/1.0.0": {
+    "LearningPlatform.Persistence/1.0.0": {
       "type": "project",
-      "path": "../LearningPlatform.DataAccess.Postgres/LearningPlatform.Persistance.csproj",
-      "msbuildProject": "../LearningPlatform.DataAccess.Postgres/LearningPlatform.Persistance.csproj"
+      "path": "../LearningPlatform.DataAccess.Postgres/LearningPlatform.Persistence.csproj",
+      "msbuildProject": "../LearningPlatform.DataAccess.Postgres/LearningPlatform.Persistence.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -5322,7 +5322,7 @@
       "LearningPlatform.Application >= 1.0.0",
       "LearningPlatform.Core >= 1.0.0",
       "LearningPlatform.Infrastructure >= 1.0.0",
-      "LearningPlatform.Persistance >= 1.0.0",
+      "LearningPlatform.Persistence >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 9.0.4",
       "Microsoft.EntityFrameworkCore.Design >= 9.0.4",
       "Microsoft.EntityFrameworkCore.SqlServer >= 9.0.4",
@@ -5367,8 +5367,8 @@
             "C:\\Users\\kukli\\Desktop\\front-back-another\\authorization\\LearningPlatform\\LearningPlatform.Core\\LearningPlatform.Core.csproj": {
               "projectPath": "C:\\Users\\kukli\\Desktop\\front-back-another\\authorization\\LearningPlatform\\LearningPlatform.Core\\LearningPlatform.Core.csproj"
             },
-            "C:\\Users\\kukli\\Desktop\\front-back-another\\authorization\\LearningPlatform\\LearningPlatform.DataAccess.Postgres\\LearningPlatform.Persistance.csproj": {
-              "projectPath": "C:\\Users\\kukli\\Desktop\\front-back-another\\authorization\\LearningPlatform\\LearningPlatform.DataAccess.Postgres\\LearningPlatform.Persistance.csproj"
+            "C:\\Users\\kukli\\Desktop\\front-back-another\\authorization\\LearningPlatform\\LearningPlatform.DataAccess.Postgres\\LearningPlatform.Persistence.csproj": {
+              "projectPath": "C:\\Users\\kukli\\Desktop\\front-back-another\\authorization\\LearningPlatform\\LearningPlatform.DataAccess.Postgres\\LearningPlatform.Persistence.csproj"
             },
             "C:\\Users\\kukli\\Desktop\\front-back-another\\authorization\\LearningPlatform\\LearningPlatform.Ifrastructure\\LearningPlatform.Infrastructure.csproj": {
               "projectPath": "C:\\Users\\kukli\\Desktop\\front-back-another\\authorization\\LearningPlatform\\LearningPlatform.Ifrastructure\\LearningPlatform.Infrastructure.csproj"

@@ -5,15 +5,17 @@ using LearningPlatform.Application.Interfaces.Auth;
 using LearningPlatform.Application.Interfaces.Repositories;
 using LearningPlatform.Application.Services;
 using LearningPlatform.Persistance;
-using LearningPlatform.Persistance.Repositories;
 using LearningPlatform.Persistence;
 //using LearningPlatform.Persistence.Repositories;
 using LearningPlatform.Infrastructure;
 using Microsoft.AspNetCore.CookiePolicy;
 //using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
+using LearningPlatform.Persistence.Repositories;
+using LearningPlatform.Core.Enums;
 
 var builder = WebApplication.CreateBuilder(args);
+
 var services = builder.Services;
 var configuration = builder.Configuration;
 
@@ -22,6 +24,9 @@ services.AddApiAuthentication(configuration);
 services.AddEndpointsApiExplorer();
 
 services.AddSwaggerGen();
+
+services.Configure<JwtOptions>(configuration.GetSection(nameof(JwtOptions)));
+services.Configure<AuthorizationOptions>(configuration.GetSection(nameof(AuthorizationOptions)));
 
 services.AddTransient<ExceptionMiddleware>();
 
@@ -68,5 +73,25 @@ app.UseAuthentication();
 app.UseAuthorization();
 
 app.AddMappedEndpoints();
+
+app.MapGet("get", () =>
+{
+    return Results.Ok("ok");
+}).RequirePermissions(Permission.Read);
+
+app.MapPost("post", () =>
+{
+    return Results.Ok("ok");
+}).RequirePermissions(Permission.Create);
+
+app.MapPut("put", () =>
+{
+    return Results.Ok("ok");
+}).RequirePermissions(Permission.Update);
+
+app.MapDelete("delete", () =>
+{
+    return Results.Ok("ok");
+}).RequirePermissions(Permission.Delete);
 
 app.Run();

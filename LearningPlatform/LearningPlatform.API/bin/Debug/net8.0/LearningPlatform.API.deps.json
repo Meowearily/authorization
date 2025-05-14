@@ -12,7 +12,7 @@
           "LearningPlatform.Application": "1.0.0",
           "LearningPlatform.Core": "1.0.0",
           "LearningPlatform.Infrastructure": "1.0.0",
-          "LearningPlatform.Persistance": "1.0.0",
+          "LearningPlatform.Persistence": "1.0.0",
           "Microsoft.EntityFrameworkCore": "9.0.4",
           "Microsoft.EntityFrameworkCore.Design": "9.0.4",
           "Microsoft.EntityFrameworkCore.SqlServer": "9.0.4",
@@ -1199,7 +1199,7 @@
           }
         }
       },
-      "LearningPlatform.Persistance/1.0.0": {
+      "LearningPlatform.Persistence/1.0.0": {
         "dependencies": {
           "AutoMapper": "12.0.1",
           "LearningPlatform.Application": "1.0.0",
@@ -1209,7 +1209,7 @@
           "Npgsql.EntityFrameworkCore.PostgreSQL": "9.0.4"
         },
         "runtime": {
-          "LearningPlatform.Persistance.dll": {
+          "LearningPlatform.Persistence.dll": {
             "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
@@ -1868,7 +1868,7 @@
       "serviceable": false,
       "sha512": ""
     },
-    "LearningPlatform.Persistance/1.0.0": {
+    "LearningPlatform.Persistence/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

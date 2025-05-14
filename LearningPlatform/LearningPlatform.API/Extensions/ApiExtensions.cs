@@ -1,8 +1,13 @@
 ﻿using LearningPlatform.API.Endpoints;
+using LearningPlatform.Core.Enums;
 using LearningPlatform.Infrastructure;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.IdentityModel.Tokens;
+using System.Security;
 using System.Text;
+using LearningPlatform.Application.Services;
+using LearningPlatform.Application.Interfaces.Auth;
 
 namespace LearningPlatform.API.Extensions;
 
@@ -55,6 +60,25 @@ public static class ApiExtensions
                 };
             });
 
+        services.AddScoped<IPermissionService, PermissionService>();
+
+        //services.AddAuthorization(options => {
+        //    options.AddPolicy("AdminPolicy", policy =>
+        //    {
+        //        policy.Requirements.Add();
+        //    });
+        //});
+
+        services.AddSingleton<IAuthorizationHandler, PermissionAuthorizationHandler>();
+
         services.AddAuthorization();
+    }
+
+    public static IEndpointConventionBuilder RequirePermissions<TBuilder> (
+        this TBuilder builder, params Permission[] permissions)
+            where TBuilder : IEndpointConventionBuilder
+    {
+        return builder.RequireAuthorization(policy =>
+            policy.AddRequirements(new PermissionRequirement(permissions)));
     }
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "k5p3QugKaWo=",
+  "dgSpecHash": "b2WYOGJhmYg=",
   "success": true,
-  "projectFilePath": "C:\\Users\\kukli\\Desktop\\front-back-another\\authorization\\LearningPlatform\\LearningPlatform.DataAccess.Postgres\\LearningPlatform.Persistance.csproj",
+  "projectFilePath": "C:\\Users\\kukli\\Desktop\\front-back-another\\authorization\\LearningPlatform\\LearningPlatform.DataAccess.Postgres\\LearningPlatform.Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kukli\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\kukli\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",

@@ -6,7 +6,7 @@ using LearningPlatform.Persistence;
 using LearningPlatform.Persistence.Entities;
 using Microsoft.EntityFrameworkCore;
 
-namespace LearningPlatform.Persistance.Repositories;
+namespace LearningPlatform.Persistence.Repositories;
 
 public class CourseRepository : ICourseRepository
 {

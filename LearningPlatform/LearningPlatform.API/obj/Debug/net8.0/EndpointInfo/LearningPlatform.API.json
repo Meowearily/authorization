@@ -112,6 +112,54 @@
         }
       }
     },
+    "/get": {
+      "get": {
+        "tags": [
+          "LearningPlatform.API"
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/post": {
+      "post": {
+        "tags": [
+          "LearningPlatform.API"
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/put": {
+      "put": {
+        "tags": [
+          "LearningPlatform.API"
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/delete": {
+      "delete": {
+        "tags": [
+          "LearningPlatform.API"
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
     "/lessons/{courseId}": {
       "post": {
         "tags": [
